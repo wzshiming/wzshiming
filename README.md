@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/wzshiming">
+  <img align="center" src="https://github.com/wzshiming/profile_stats/raw/gh-pages/wzshiming-stats.svg" />
+</a>
+
+- 🔭 I’m currently working on [Kubernetes](https://github.com/kubernetes/kubernetes), [Containerd](https://github.com/containerd/containerd), [Istio](https://github.com/istio/istio).
+- 🌱 I’m currently learning English 😄.
+- ✨ I’m currently plan to learn network protocol stack.
+- 🤔 I’m looking for help with make a GUI for [Bridge](https://github.com/wzshiming/bridge).
+- 📫 How to reach me: wzshiming@foxmail.com, me@zsm.io.
+- 😄 Pronouns: he, his.
