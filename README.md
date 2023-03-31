@@ -19,6 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github.com/wzshiming/my-stats/raw/master/stats.svg" />
 </a>
 
-- 🔭 I’m currently working on [Kubernetes](https://github.com/kubernetes), [Containerd](https://github.com/containerd), [Istio](https://github.com/istio), [Knative](https://github.com/knative)
+- 🔭 I’m currently working on [Kubernetes](https://github.com/kubernetes), [Containerd](https://github.com/containerd), [Istio](https://github.com/istio)
 - ✨ I’m currently learning about **Containers** and **Network Protocol Stack**
-- 😄 Pronouns: he/him/his
